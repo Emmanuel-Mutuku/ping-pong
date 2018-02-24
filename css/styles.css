@@ -1,0 +1,17 @@
+.jumbotron{
+  width: 105%;
+  position: relative;
+}
+#ping{
+  background-image: url("../img/Insomnia2.jpg");
+  height: 200vh;
+  width: 70vw;
+  float: right 5px;
+  margin-top: -20px;
+}
+#about{
+  border: solid;
+  height: 60vh;
+  width: 25%;
+  background-color: green;
+}
